@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Haohui Xie avatar</title>
+  <desc id="desc">A simple geometric avatar with HX initials.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="55%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <circle cx="256" cy="188" r="92" fill="#DBEAFE" opacity="0.95"/>
+  <path d="M112 440c20-90 82-142 144-142s124 52 144 142" fill="#EFF6FF" opacity="0.95"/>
+  <text x="256" y="292" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="112" font-weight="800" fill="#0F172A">HX</text>
+</svg>
